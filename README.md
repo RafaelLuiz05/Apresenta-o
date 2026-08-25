@@ -3,7 +3,7 @@
 ### 👨‍💻 Quem sou eu?
 Profissional da área de Tecnologia da Informação, com interesse e focado em Dados, Desenvolvimento e Suporte.
 
-Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver soluções que possam contribuir para a resolução de problemas. Atualmente estou cursando Ciências da Computação (2º Semestre).
+Estudante de Ciências da Computação (2º Semestre). Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver soluções que possam contribuir para a resolução de problemas.
 
 ### 🛠️ Linguagens e Conhecimentos
 - Dados: análise e tratamento de dados (Excel)
@@ -12,6 +12,7 @@ Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e 
 - Linguagem: Python (Básico)
 
 ### 📚 O que estou estudando / Pretendo aprender
+- HTML
 - Java
 - JavaScript
 - C
