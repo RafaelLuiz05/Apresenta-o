@@ -1,41 +1,35 @@
-# Olá! Eu sou [Seu Nome] 👋
+### Olá! Eu sou Rafael Luiz 👋
 
+👨‍💻 Quem sou eu
+Sou profissional da área de Tecnologia da Informação, com interesse e foco em Dados, Desenvolvimento e Suporte.
 
+Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver soluções que possam contribuir para a resolução de problemas.
 
-### 👨‍💻 Quem sou eu
+### 🛠️ Linguagens e Conhecimentos
+Dados: análise e tratamento de dados
+Desenvolvimento: lógica de programação e desenvolvimento de software
+Suporte: suporte técnico e resolução de problemas
+Linguagem: Python (Básico)
 
-Sou um [Sua Profissão, ex: Desenvolvedor Front-end / Estudante de Engenharia de Software] apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em [área de estudo atual] e sempre em busca de novos desafios!
+### 📚 O que estou estudando / Pretendo aprender
+Java
+JavaScript
+C
+C#
+CSS
+Entre outras tecnologias relacionadas à área de desenvolvimento
 
+### 🎯 Objetivos
+Continuar evoluindo profissionalmente na área de tecnologia, ampliando meus conhecimentos em Dados, Desenvolvimento e Suporte, além de aprender novas linguagens e ferramentas.
 
-
-### 🛠️ Linguagens e Ferramentas
-
-*  **Front-end:** HTML, CSS, JavaScript, React
-
-*  **Back-end:** Python, Node.js
-
-*  **Design:** Figma
-
-*  **Outros:** Git, Metodologias Ágeis
-
-
-
-### 🚀 Projetos em Destaque
-
-*  [Nome do Projeto 1](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-*  [Nome do Projeto 2](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-
+### 📌 Interesses
+Desenvolvimento de Software
+Dados
+Análise de Dados
+Suporte Técnico
+Tecnologia da Informação
+Aprendizado contínuo
 
 ### 📫 Como me encontrar
-
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://linkedin.com/in/seuperfil)
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/seunumerodecelular)](https://wa.me/seunumerodecelular)
-
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/seuperfil)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seuperfil)](https://instagram.com/seuperfil)
+LinkedIn
+Sempre aprendendo, desenvolvendo e evoluindo. 🚀
