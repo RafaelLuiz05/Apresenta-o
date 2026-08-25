@@ -1,15 +1,15 @@
-### Olá! Eu sou Rafael Luiz 👋
+# Olá! Eu sou Rafael Luiz 👋
 
-👨‍💻 Quem sou eu
-Sou profissional da área de Tecnologia da Informação, com interesse e foco em Dados, Desenvolvimento e Suporte.
+### 👨‍💻 Quem sou eu?
+Sou profissional da área de Tecnologia da Informação, com interesse e focado em Dados, Desenvolvimento e Suporte.
 
 Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver soluções que possam contribuir para a resolução de problemas.
 
 ### 🛠️ Linguagens e Conhecimentos
-Dados: análise e tratamento de dados
-Desenvolvimento: lógica de programação e desenvolvimento de software
-Suporte: suporte técnico e resolução de problemas
-Linguagem: Python (Básico)
+- Dados: análise e tratamento de dados
+- Desenvolvimento: lógica de programação e desenvolvimento de software
+- Suporte: suporte técnico e resolução de problemas
+- Linguagem: Python (Básico)
 
 ### 📚 O que estou estudando / Pretendo aprender
 - Java
