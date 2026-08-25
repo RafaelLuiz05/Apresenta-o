@@ -1,12 +1,12 @@
 # Olá! Eu sou Rafael Luiz 👋
 
 ### 👨‍💻 Quem sou eu?
-Sou profissional da área de Tecnologia da Informação, com interesse e focado em Dados, Desenvolvimento e Suporte.
+Profissional da área de Tecnologia da Informação, com interesse e focado em Dados, Desenvolvimento e Suporte.
 
-Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver soluções que possam contribuir para a resolução de problemas.
+Busco constantemente aprimorar meus conhecimentos, aprender novas tecnologias e desenvolver soluções que possam contribuir para a resolução de problemas. Atualmente estou cursando Ciências da Computação (2º Semestre).
 
 ### 🛠️ Linguagens e Conhecimentos
-- Dados: análise e tratamento de dados
+- Dados: análise e tratamento de dados (Excel)
 - Desenvolvimento: lógica de programação e desenvolvimento de software
 - Suporte: suporte técnico e resolução de problemas
 - Linguagem: Python (Básico)
@@ -28,9 +28,8 @@ Continuar evoluindo profissionalmente na área de tecnologia, ampliando meus con
 - Análise de Dados
 - Suporte Técnico
 - Tecnologia da Informação
-- Aprendizado contínuo
 
-### 📫 Como me encontrar
+### 📫 Onde me encontrar?
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael222luiz@gmail.com)](mailto:rafael222luiz@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/rafaelluizz/))](https://www.linkedin.com/in/rafaelluizz/)
