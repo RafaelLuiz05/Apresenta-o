@@ -12,24 +12,27 @@ Suporte: suporte técnico e resolução de problemas
 Linguagem: Python (Básico)
 
 ### 📚 O que estou estudando / Pretendo aprender
-Java
-JavaScript
-C
-C#
-CSS
-Entre outras tecnologias relacionadas à área de desenvolvimento
+- Java
+- JavaScript
+- C
+- C#
+- CSS
+- Entre outras tecnologias relacionadas à área de desenvolvimento
 
 ### 🎯 Objetivos
 Continuar evoluindo profissionalmente na área de tecnologia, ampliando meus conhecimentos em Dados, Desenvolvimento e Suporte, além de aprender novas linguagens e ferramentas.
 
 ### 📌 Interesses
-Desenvolvimento de Software
-Dados
-Análise de Dados
-Suporte Técnico
-Tecnologia da Informação
-Aprendizado contínuo
+- Desenvolvimento de Software
+- Dados
+- Análise de Dados
+- Suporte Técnico
+- Tecnologia da Informação
+- Aprendizado contínuo
 
 ### 📫 Como me encontrar
-LinkedIn
-Sempre aprendendo, desenvolvendo e evoluindo. 🚀
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/rafaelluizz/))](https://www.linkedin.com/in/rafaelluizz/)
+
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/seuperfil)
