@@ -34,6 +34,6 @@ Continuar evoluindo profissionalmente na área de tecnologia, ampliando meus con
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/rafaelluizz/))](https://www.linkedin.com/in/rafaelluizz/)
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/seuperfil)](https://dev.to/seuperfil)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/rafaelluiz05)](https://dev.to/rafaelluiz05)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rafflerlouys)](https://instagram.com/rafflerlouys)
